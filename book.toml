@@ -1,0 +1,7 @@
+[book]
+title = "rustviz-notes"
+authors = ["Lucas Simpson"]
+language = "en"
+
+# book.toml
+[preprocessor.aquascope]
